@@ -1,0 +1,11 @@
+#nav{
+    background-color: #b0cfff;
+    width: 200px;
+    
+}
+#content{
+    background-color: #5b7fbd;   
+}
+#wrap{
+    display: flex;
+}

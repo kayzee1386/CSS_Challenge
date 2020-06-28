@@ -1,0 +1,48 @@
+body{
+    width: 800px;
+    margin:0 auto; 
+    border: 2px solid black;
+}
+h4{
+    padding-left: 1%;
+}
+.Mock{
+    border-bottom: 2px solid black;
+}
+#head{
+    margin: 5% auto;
+    width: 90%;
+    height: 100px;
+    background-color: rgb(57, 245, 135);
+    border: solid;
+    display: flex;
+    align-content: center;
+}
+.body{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    margin: 20px 0;
+}
+#container{
+    margin: 2% auto;
+    padding-top: 4%;
+    width: 90%;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    flex-flow: row wrap;
+}
+.body-orange{
+    background-color: orange;
+}
+.body-red{
+    background-color: red;
+}
+.body-blue{
+    background-color: blue;
+}
+.img{
+    background-image: url("./css.jpg");
+    background-size: contain;
+}
